@@ -193,10 +193,7 @@ Mi proyecto nace del deseo de TreatTower es tecnología accesible para el cuidad
     <em>Dispensador Inteligente</em>
 
 Una de sus principales funciones es el dispensador de comida, agua y premios, que garantiza que la mascota reciba la cantidad adecuada de alimento incluso cuando su dueño no se encuentra en casa. Además, incluye una cámara HD y un micrófono bidireccional que permiten la interacción en tiempo real, haciendo posible ver, escuchar y hablar con la mascota desde cualquier lugar.
-
-El entretenimiento también es fundamental, por eso TreatTower incorpora juguetes interactivos que pueden controlarse desde una aplicación móvil. De esta manera, no solo se asegura el bienestar físico y mental de la mascota, sino que también se refuerza el vínculo emocional con su dueño.  </p>
-
-  <p>
+El entretenimiento también es fundamental, por eso TreatTower incorpora juguetes interactivos que pueden controlarse desde una aplicación móvil. De esta manera, no solo se asegura el bienestar físico y mental de la mascota, sino que también se refuerza el vínculo emocional con su dueño.  
    El objetivo de este proyecto es ofrecer a los cuidadores la tranquilidad de que sus mascotas están seguras, activas y acompañadas, incluso a la distancia. Con Treattower, la tecnología se convierte en un puente de amor y cuidado, garantizando una vida más feliz y saludable para los animales de compañía. 
   </p>
 </section>
